@@ -7,7 +7,7 @@
 </form>
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-$servername = "localhost";
+$servername = "bkborisaniya-mysql.mysql.database.azure.com";
 $username = "bhavesh";
 $password = "Bkborisaniya@IT";
 $dbname = "myedunet";
