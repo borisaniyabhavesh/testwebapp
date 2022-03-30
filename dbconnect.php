@@ -10,7 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 $servername = "bkborisaniya-mysql.mysql.database.azure.com";
 $username = "bhavesh";
 $password = "Bkborisaniya@IT";
-$dbname = "myedunet";
+$dbname = "student";
 // Create connection
 $conn = new mysqli($servername, $username, $password,$dbname);
 
