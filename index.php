@@ -9,5 +9,6 @@
         $x++;
       }
   ?>
+  <h3>Go to <a href="./about.php"> About Us</a></h3>
 </body>
 </html>
